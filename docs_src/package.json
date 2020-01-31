@@ -18,7 +18,7 @@
         "react-syntax-highlighter": "^12.2.1",
         "react-three-fiber": "^3.0.17",
         "react-use": "^13.12.2",
-        "react-vfx": "file:..",
+        "react-vfx": "^0.1.4",
         "three": "^0.111.0",
         "typescript": "~3.7.2",
         "vh-check": "^2.0.5"
